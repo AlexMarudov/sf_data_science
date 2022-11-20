@@ -50,3 +50,5 @@ if __name__ == '__main__':
     score_game(random_predict)
 
 #print(f'Количество попыток: {random_predict()}')
+
+#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
